@@ -1,5 +1,6 @@
 # sistema_contagem
-**Exercício JavaScript - Par ou Impar?** <br>
+**Exercício JavaScript - Par ou Impar?** 
+
 Trabalho realizado em 26/01/2022, durante aula on line com Professor Thiago. <br>
 Criamos um pequeno contador de 0 a 10 que:<br>
  - Percorre uma lista com um número pré- determinado 
