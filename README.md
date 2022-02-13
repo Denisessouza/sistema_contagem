@@ -3,7 +3,7 @@
 **_Exercício JavaScript - Par ou Impar?_**
 ***
 Trabalho realizado em 26/01/2022, durante aula on line com Professor Thiago. <br>
-Criamos um pequeno contador de 0 a 10 que:<br>
+Criamos um contador simples, de 0 a 10 que:<br>
  - Percorre uma lista com um número pré- determinado 
  - Identifica o número Zero <br>
  - Verifica se o número é par ou ímpar, através da divisão inteira do número, por 2. <br>
