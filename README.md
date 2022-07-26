@@ -1,6 +1,6 @@
-## sistema_contagem
+## Sistema de contagem ##
 
-**_Exercício JavaScript - Par ou Impar?_**
+**_Exercício em JavaScript: Par ou Impar?_**
 ***
 Trabalho realizado em 26/01/2022, durante aula on line com Professor Thiago. <br>
 Criamos um contador simples, de 0 a 10 que:<br>
